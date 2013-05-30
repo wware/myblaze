@@ -1,4 +1,4 @@
-myBlaze, downloaded from OpenCores.org
+MyBlaze, downloaded from OpenCores.org
 ======================================
 
 MyBlaze is a synthesizable clone of the MicroBlaze Soft Processor written in
